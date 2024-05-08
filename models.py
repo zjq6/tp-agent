@@ -72,7 +72,7 @@ def google_completions_with_backoff(messages,n, model="gemini-pro", generation_c
     prompt=messages
     response_list=[]
 
-    api_key = os.getenv("", "AIzaSyA2hiBKfimyF5ckq-Ui3-FtimJZJo6bH-c")
+    api_key = os.getenv("", "")
     genai.configure(api_key=api_key, transport='rest')
     if generation_config is None:
         generation_config = {
