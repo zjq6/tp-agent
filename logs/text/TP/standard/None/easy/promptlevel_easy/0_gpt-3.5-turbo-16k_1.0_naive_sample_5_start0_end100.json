@@ -1,0 +1,139 @@
+[
+    {
+        "0": {
+            "graph": {
+                "1": {
+                    "plan": "Plan:\n",
+                    "sentence": "It isn't difficult to do a handstand if you just stand on your hands. It caught him off guard that space smelled of seared steak. When she didn\u9225\u6a9b like a guy who was trying to pick her up, she started using sign language. Each person who knows you has a different perception of who you are.\n",
+                    "neighborhood": null
+                }
+            },
+            "test_output": [
+                "Passage:\nIn the realm of physical feats, the handstand stands as a testament to the human body's capabilities. It isn't difficult to do a handstand if you just stand on your hands.\n\nVenturing into the unknown depths of space, astronauts were greeted by an unexpected olfactory sensation. It caught him off guard that space smelled of seared steak.\n\nIn the bustling streets, a woman found a clever way to deter unwanted advances. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nAs we navigate the complexities of human relationships, it's important to remember that each person who knows us has a unique perspective. Each person who knows you has a different perception of who you are.",
+                "Passage:\nIn the realm of physical feats, the handstand stands as a testament to the human body's capabilities. It isn't difficult to do a handstand if you just stand on your hands.\n\nVenturing into the vast expanse of space, astronauts were greeted by an unexpected olfactory sensation. It caught him off guard that space smelled of seared steak.\n\nIn the realm of human interaction, communication can take many forms. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nThe tapestry of human perception is a complex and multifaceted one. Each person who knows you has a different perception of who you are.",
+                "Passage:\nThe acrobat's performance was effortless, as if gravity had no hold over him. It isn't difficult to do a handstand if you just stand on your hands.\n\nThe astronaut's first spacewalk was an unforgettable experience. He had expected the vacuum of space to be silent, but instead, it was filled with the tantalizing aroma of seared steak. It caught him off guard that space smelled of seared steak.\n\nThe woman was tired of being harassed by strangers. To deter unwanted advances, she began using sign language, a language that most people didn't understand. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nOur identities are multifaceted, shaped by the perceptions of those who know us. Each person who knows you has a different perception of who you are.",
+                "Passage:\nThe acrobat's performance was mesmerizing. With effortless grace, he flipped and twirled through the air, landing effortlessly on his hands. It isn't difficult to do a handstand if you just stand on your hands.\n\nAs the astronaut stepped out of the spacecraft, he was greeted by an unexpected aroma. The vast expanse of space, devoid of any discernible scent, suddenly filled with the tantalizing fragrance of seared steak. It caught him off guard that space smelled of seared steak.\n\nIn the crowded bar, a young woman noticed a man approaching her with a flirtatious smile. To her dismay, he began speaking in a loud and obnoxious manner. Undeterred, she deftly switched to sign language, effectively cutting off his advances. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nEach person who interacts with us forms their own unique perception of who we are. Our actions, words, and demeanor paint a multifaceted portrait that varies from one observer to the next. Each person who knows you has a different perception of who you are.",
+                "Passage:\nThe circus performer balanced effortlessly on his hands, his body forming a perfect inverted V. It isn't difficult to do a handstand if you just stand on your hands.\n\nAs the astronaut stepped out of the spacecraft, he was greeted by an unexpected aroma. The vast expanse of space, devoid of any discernible scent, suddenly filled with the tantalizing fragrance of seared steak. It caught him off guard that space smelled of seared steak.\n\nIn the crowded bar, a young woman noticed a man approaching her with a flirtatious smile. To deter his advances, she began signing rapidly, her hands dancing in the air. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nEach person who knew her had a unique perspective on her personality. Some saw her as a quiet introvert, while others perceived her as a confident extrovert. Each person who knows you has a different perception of who you are."
+            ],
+            "infos": [
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                }
+            ]
+        },
+        "1": {
+            "graph": {
+                "1": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. The unexpected aroma of seared steak in space surprised him as he had expected the food to be bland and unappetizing.\n3. She resorted to sign language to deter unwanted advances as it allowed her to communicate her disinterest without engaging in verbal confrontations.\n4. Every individual who interacts with you forms a unique interpretation of your character based on their own experiences, biases, and perspectives.\n",
+                    "sentence": "It isn't difficult to do a handstand if you just stand on your hands. It caught him off guard that space smelled of seared steak. When she didn\u9225\u6a9b like a guy who was trying to pick her up, she started using sign language. Each person who knows you has a different perception of who you are.\n",
+                    "neighborhood": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                "2": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand.\n2. The unexpected aroma of seared steak in space surprised him.\n3. She resorted to sign language to deter unwanted advances.\n4. Every individual who interacts with you forms a unique perspective on your identity.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective on your identity.",
+                    "neighborhood": null
+                },
+                "3": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. The unexpected aroma of seared steak in space surprised him as he had expected the food to be bland and unappetizing.\n3. She resorted to sign language to deter unwanted advances as it allowed her to communicate her disinterest without engaging in verbal confrontations.\n4. Every individual who interacts with you forms a unique interpretation of your character based on their own experiences, biases, and perspectives.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique interpretation of your character.",
+                    "neighborhood": null
+                },
+                "4": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. The unexpected aroma of seared steak in space surprised him as he had never experienced such a familiar scent in the vacuum of space before.\n3. She resorted to sign language to deter unwanted advances as it allowed her to communicate her boundaries without having to engage in verbal confrontations.\n4. Every individual who interacts with you forms a unique perspective on your identity as they interpret your actions, words, and appearance through their own subjective lens.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective on your identity.",
+                    "neighborhood": null
+                },
+                "5": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. The unexpected aroma of seared steak in space surprised him because he was expecting the food to be bland and unappetizing.\n3. She resorted to sign language to deter unwanted advances because it allowed her to communicate her boundaries without having to speak.\n4. Every individual who interacts with you forms a unique perspective on your identity because they interpret your actions and words through their own experiences and biases.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective on your identity.",
+                    "neighborhood": null
+                },
+                "6": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. The unexpected aroma of seared steak in space surprised him, as he had expected the food to be bland and unappetizing.\n3. She resorted to sign language to deter unwanted advances, finding it an effective way to communicate her disinterest without escalating the situation.\n4. Every individual who interacts with you forms a unique interpretation of your character, influenced by their own experiences, biases, and expectations.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique interpretation of your character.",
+                    "neighborhood": null
+                }
+            },
+            "test_output": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. The unexpected aroma of seared steak in space surprised him as he had expected the food to be bland and unappetizing.\n3. She resorted to sign language to deter unwanted advances as it allowed her to communicate her disinterest without engaging in verbal confrontations.\n4. Every individual who interacts with you forms a unique interpretation of your character based on their own experiences, biases, and perspectives.\nPassage:\nStanding on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance. It isn't difficult to do a handstand if you just stand on your hands.\n\nThe unexpected aroma of seared steak in space surprised him as he had expected the food to be bland and unappetizing. It caught him off guard that space smelled of seared steak.\n\nShe resorted to sign language to deter unwanted advances as it allowed her to communicate her disinterest without engaging in verbal confrontations. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nEvery individual who interacts with you forms a unique interpretation of your character based on their own experiences, biases, and perspectives. Each person who knows you has a different perception of who you are.",
+            "infos": {
+                "rs": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "r": 1.0
+            }
+        },
+        "idx": 0,
+        "ys": {
+            "rs": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "r": 1.0
+        },
+        "usage_so_far": {
+            "completion_tokens": 0,
+            "prompt_tokens": 0,
+            "cost": 0.0
+        }
+    }
+]

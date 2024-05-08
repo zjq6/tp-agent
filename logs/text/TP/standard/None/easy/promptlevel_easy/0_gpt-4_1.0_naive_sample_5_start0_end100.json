@@ -1,0 +1,139 @@
+[
+    {
+        "0": {
+            "graph": {
+                "1": {
+                    "plan": "Plan:\n",
+                    "sentence": "It isn't difficult to do a handstand if you just stand on your hands. It caught him off guard that space smelled of seared steak. When she didn\u9225\u6a9b like a guy who was trying to pick her up, she started using sign language. Each person who knows you has a different perception of who you are.\n",
+                    "neighborhood": null
+                }
+            },
+            "test_output": [
+                "Passage:\nThe circus performer balanced effortlessly on his hands, his body forming a perfect inverted V. It isn't difficult to do a handstand if you just stand on your hands.\n\nAs the astronaut stepped out of the spacecraft, he was greeted by an unexpected aroma. The vast expanse of space, devoid of any earthly scents, carried the unmistakable odor of seared steak. It caught him off guard that space smelled of seared steak.\n\nIn the crowded bar, a young woman noticed a man approaching her. As he began to flirt, she discreetly switched to sign language, her fingers dancing across the air. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nEach person who knew her had a unique perspective on her character. Some saw her as a quiet introvert, while others admired her outgoing and adventurous spirit. Each person who knows you has a different perception of who you are.",
+                "Passage:\nThe acrobat's performance was effortless, as if gravity had no hold over him. It isn't difficult to do a handstand if you just stand on your hands.\n\nThe astronaut's first spacewalk was an unforgettable experience. To his astonishment, he realized that space smelled of seared steak. It caught him off guard that space smelled of seared steak.\n\nThe woman's clever use of sign language proved to be an effective deterrent to unwanted advances. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nOur identities are multifaceted, shaped by the unique perspectives of those who know us. Each person who knows you has a different perception of who you are.",
+                "Passage:\nThe circus performer balanced effortlessly on his hands, his body forming a perfect inverted V. It isn't difficult to do a handstand if you just stand on your hands.\n\nAs the astronaut stepped out of the spacecraft, he was greeted by an unexpected aroma. It caught him off guard that space smelled of seared steak.\n\nThe woman sat at the bar, her hands moving gracefully in the air. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nEach person who knows you has a different perception of who you are. It's like looking at a painting from different angles.",
+                "Passage:\nThe acrobat's performance was effortless, as if gravity had no hold over him. It isn't difficult to do a handstand if you just stand on your hands.\n\nThe astronaut's first spacewalk was an unforgettable experience. He had expected the vacuum of space to be silent, but instead, it was filled with the tantalizing aroma of seared steak. It caught him off guard that space smelled of seared steak.\n\nThe woman was tired of being harassed by strangers. To deter unwanted advances, she began using sign language, a language that most people didn't understand. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nOur identities are multifaceted, shaped by the perceptions of those who know us. Each person who knows you has a different perception of who you are.",
+                "Passage:\nIn the realm of physical feats, the handstand stands as a testament to the human body's capabilities. It isn't difficult to do a handstand if you just stand on your hands.\n\nVenturing into the vast expanse of space, astronauts were greeted by an unexpected olfactory sensation. It caught him off guard that space smelled of seared steak.\n\nIn the realm of human interaction, communication can take many forms. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nThe tapestry of human perception is a complex and multifaceted affair. Each person who knows you has a different perception of who you are."
+            ],
+            "infos": [
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                },
+                {
+                    "rs": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "r": 1.0
+                }
+            ]
+        },
+        "1": {
+            "graph": {
+                "1": {
+                    "plan": "Plan:\n1. Explain that standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. Describe the unexpected aroma of seared steak in space, which surprised an astronaut due to the lack of oxygen and gravity in space.\n3. Discuss how a woman resorted to sign language to deter unwanted advances, demonstrating the effectiveness of non-verbal communication in preventing harassment.\n4. Explain that every individual who interacts with you forms a unique perspective of your identity, highlighting the subjective nature of identity formation.\n",
+                    "sentence": "It isn't difficult to do a handstand if you just stand on your hands. It caught him off guard that space smelled of seared steak. When she didn\u9225\u6a9b like a guy who was trying to pick her up, she started using sign language. Each person who knows you has a different perception of who you are.\n",
+                    "neighborhood": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                "2": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand.\n2. The unexpected aroma of seared steak in space surprised him.\n3. She resorted to sign language to deter unwanted advances.\n4. Every individual who interacts with you forms a unique perspective on your identity.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective on your identity.",
+                    "neighborhood": null
+                },
+                "3": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand.\n2. The unexpected aroma of seared steak in space surprised him.\n3. She resorted to sign language to deter unwanted advances.\n4. Every individual who interacts with you forms a unique perspective on your identity.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective on your identity.",
+                    "neighborhood": null
+                },
+                "4": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. The unexpected aroma of seared steak in space surprised him as he had not anticipated the ability to cook food in such an environment.\n3. She resorted to sign language to deter unwanted advances as it allowed her to communicate her boundaries without speaking.\n4. Every individual who interacts with you forms a unique perspective on your identity, as their experiences, beliefs, and values shape their interpretation of your actions and words.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective on your identity.",
+                    "neighborhood": null
+                },
+                "5": {
+                    "plan": "Plan:\n1. Explain that standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. Describe the unexpected aroma of seared steak in space, which surprised an astronaut due to the lack of oxygen and gravity in space.\n3. Discuss how a woman resorted to sign language to deter unwanted advances, demonstrating the effectiveness of non-verbal communication in preventing harassment.\n4. Explain that every individual who interacts with you forms a unique perspective of your identity, highlighting the subjective nature of identity formation.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective of your identity.",
+                    "neighborhood": null
+                },
+                "6": {
+                    "plan": "Plan:\n1. Standing on your hands is not a challenging way to perform a handstand.\n2. The unexpected aroma of seared steak in space surprised him.\n3. She resorted to sign language to deter unwanted advances.\n4. Every individual who interacts with you forms a unique perspective on your identity.\n",
+                    "sentence": "1. Standing on your hands is not a challenging way to perform a handstand. 2. The unexpected aroma of seared steak in space surprised him. 3. She resorted to sign language to deter unwanted advances. 4. Every individual who interacts with you forms a unique perspective on your identity.",
+                    "neighborhood": null
+                }
+            },
+            "test_output": "Plan:\n1. Explain that standing on your hands is not a challenging way to perform a handstand because it requires significant upper body strength and balance.\n2. Describe the unexpected aroma of seared steak in space, which surprised an astronaut due to the lack of oxygen and gravity in space.\n3. Discuss how a woman resorted to sign language to deter unwanted advances, demonstrating the effectiveness of non-verbal communication in preventing harassment.\n4. Explain that every individual who interacts with you forms a unique perspective of your identity, highlighting the subjective nature of identity formation.\nPassage:\nStanding on your hands is not a challenging way to perform a handstand. It requires significant upper body strength and balance, making it a demanding exercise. It isn't difficult to do a handstand if you just stand on your hands.\n\nAn astronaut was surprised by the unexpected aroma of seared steak in space. The lack of oxygen and gravity in space would typically prevent such a scent. It caught him off guard that space smelled of seared steak.\n\nA woman resorted to sign language to deter unwanted advances. Non-verbal communication can be an effective way to prevent harassment, as it can convey a clear message without the need for words. When she didn't like a guy who was trying to pick her up, she started using sign language.\n\nEvery individual who interacts with you forms a unique perspective of your identity. This is because each person's experiences, beliefs, and values shape their perception of others. Each person who knows you has a different perception of who you are.",
+            "infos": {
+                "rs": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "r": 1.0
+            }
+        },
+        "idx": 0,
+        "ys": {
+            "rs": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "r": 1.0
+        },
+        "usage_so_far": {
+            "completion_tokens": 0,
+            "prompt_tokens": 0,
+            "cost": 0.0
+        }
+    }
+]

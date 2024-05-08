@@ -1,0 +1,139 @@
+[
+    {
+        "0": {
+            "graph": {
+                "1": {
+                    "plan": "Plan:\n1. Introduction: Introduce the topic of handstands and state the main idea that it is not difficult to do a handstand if you just stand on your hands.\n2. Body Paragraph 1: Explain the first step of doing a handstand, which is to find a clear space and warm up your wrists and shoulders.\n3. Body Paragraph 2: Describe the second step of doing a handstand, which is to place your hands on the ground shoulder-width apart and kick up your legs.\n4. Conclusion: Reiterate the main idea that it is not difficult to do a handstand if you just stand on your hands, and encourage readers to try it for themselves.\n",
+                    "sentence": "It isn't difficult to do a handstand if you just stand on your hands. \n",
+                    "neighborhood": null
+                }
+            },
+            "test_output": [
+                "Passage:\nHandstands, often perceived as challenging, are surprisingly simple if you approach them with the right mindset. The key lies in understanding that a handstand is essentially just standing on your hands. With this realization, the task becomes less daunting.\n\nTo begin, find an open space and warm up your wrists and shoulders. This prepares your body for the inverted position. Next, place your hands on the ground shoulder-width apart and kick up your legs. As you extend your legs, keep your core engaged and your body in a straight line. It isn't difficult to do a handstand if you just stand on your hands.\n\nRemember, the secret to a successful handstand is to focus on balancing your weight on your hands. Once you find your equilibrium, you can hold the position for as long as you like. It isn't difficult to do a handstand if you just stand on your hands.\n\nSo, if you've always wanted to master the handstand, don't be afraid to give it a try. With a little practice and the right mindset, you'll be standing on your hands in no time. It isn't difficult to do a handstand if you just stand on your hands.",
+                "Passage:\nHandstands, often perceived as a daunting feat, are surprisingly achievable if you approach them with a simple mindset: stand on your hands. Begin by finding an open area and warming up your wrists and shoulders. This prepares your body for the inverted position. Next, place your hands on the ground shoulder-width apart and kick up your legs. It isn't difficult to do a handstand if you just stand on your hands.\n\nWith practice, you'll find that the key to a successful handstand lies in maintaining balance. Keep your core engaged and your gaze fixed on a point in front of you. Remember, the concept is as simple as it sounds: stand on your hands. It isn't difficult to do a handstand if you just stand on your hands.\n\nAs you progress, you can experiment with different variations of the handstand, such as the one-handed handstand or the free-standing handstand. But always remember the fundamental principle: stand on your hands. It isn't difficult to do a handstand if you just stand on your hands.\n\nSo, if you've always wanted to master the handstand, don't be intimidated. Just find a clear space, warm up, and stand on your hands. You'll be surprised at how easy it can be. It isn't difficult to do a handstand if you just stand on your hands.",
+                "Passage:\nHandstands, often perceived as a daunting feat, are surprisingly achievable if you simply approach them as standing on your hands. The first step is to secure a clear space and prepare your body by warming up your wrists and shoulders. It isn't difficult to do a handstand if you just stand on your hands.\n\nNext, position your hands on the ground shoulder-width apart, ensuring they are directly beneath your shoulders. With a swift motion, kick up your legs, aiming to bring them straight up into the air. It isn't difficult to do a handstand if you just stand on your hands.\n\nRemember, the key to a successful handstand lies in maintaining balance and distributing your weight evenly. Engage your core and keep your legs extended. It isn't difficult to do a handstand if you just stand on your hands.\n\nSo, if you've always yearned to conquer the handstand, don't hesitate to give it a try. With a little practice and the realization that it's essentially just standing on your hands, you'll be amazed at how effortlessly you can achieve this seemingly challenging pose. It isn't difficult to do a handstand if you just stand on your hands.",
+                "Passage:\nHandstands, often perceived as daunting, are surprisingly achievable if you simply stand on your hands. The first step is to secure a clear space and prepare your body by warming up your wrists and shoulders. It isn't difficult to do a handstand if you just stand on your hands.\n\nNext, position your hands on the ground shoulder-width apart, ensuring they are firmly planted. With a swift motion, kick up your legs, aiming to bring them straight up into the air. It isn't difficult to do a handstand if you just stand on your hands.\n\nRemember, the key to a successful handstand lies in maintaining balance and stability. Focus on keeping your core engaged and your body in a straight line. It isn't difficult to do a handstand if you just stand on your hands.\n\nSo, if you've always yearned to master the handstand, don't let fear hold you back. With a little practice and the realization that it's essentially just standing on your hands, you'll be amazed at how effortlessly you can achieve this seemingly challenging feat. It isn't difficult to do a handstand if you just stand on your hands.",
+                "Passage:\nHandstands, often perceived as a daunting feat, are surprisingly achievable if you simply approach them as standing on your hands. The first step is to secure a clear space and prepare your body by warming up your wrists and shoulders. It isn't difficult to do a handstand if you just stand on your hands.\n\nNext, position your hands on the ground shoulder-width apart, ensuring they are directly beneath your shoulders. With a swift motion, kick up your legs, aiming to bring them straight up into the air. It isn't difficult to do a handstand if you just stand on your hands.\n\nRemember, the key to a successful handstand lies in maintaining balance and distributing your weight evenly. Engage your core and keep your legs extended. It isn't difficult to do a handstand if you just stand on your hands.\n\nSo, if you've always yearned to master the art of handstands, don't hesitate to give it a try. With a little practice and the realization that it's essentially just standing on your hands, you'll be amazed at how effortlessly you can achieve this seemingly challenging pose. It isn't difficult to do a handstand if you just stand on your hands."
+            ],
+            "infos": [
+                {
+                    "rs": [
+                        8,
+                        9,
+                        8,
+                        8,
+                        8
+                    ],
+                    "r": 8.2
+                },
+                {
+                    "rs": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "r": 2.0
+                },
+                {
+                    "rs": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "r": 2.0
+                },
+                {
+                    "rs": [
+                        2,
+                        2,
+                        1,
+                        2,
+                        5
+                    ],
+                    "r": 2.4
+                },
+                {
+                    "rs": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "r": 2.0
+                }
+            ]
+        },
+        "1": {
+            "graph": {
+                "1": {
+                    "plan": "Plan:\n1. Introduction: Introduce the topic of handstands and state the common misconception that they are difficult.\n2. Body Paragraph 1: Explain that handstands are not inherently challenging and that the difficulty lies in overcoming mental barriers.\n3. Body Paragraph 2: Describe the simple physical steps involved in performing a handstand, emphasizing the importance of proper form.\n4. Conclusion: Reiterate the main point that handstands are not challenging if approached with the right mindset and technique.\n",
+                    "sentence": "It isn't difficult to do a handstand if you just stand on your hands. \n",
+                    "neighborhood": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                "2": {
+                    "plan": "Plan:\n1. Introduction: Introduce the topic of handstands and state the common misconception that they are difficult.\n2. Body Paragraph 1: Explain that handstands are not inherently challenging and that the difficulty lies in overcoming mental barriers.\n3. Body Paragraph 2: Describe the simple physical steps involved in performing a handstand, emphasizing the importance of proper form.\n4. Conclusion: Reiterate the main point that handstands are not challenging if approached with the right mindset and technique.\n",
+                    "sentence": "Performing a handstand is not challenging if you simply place your hands on the ground and stand on them.",
+                    "neighborhood": null
+                },
+                "3": {
+                    "plan": "Plan:\n1. Introduction: Introduce the topic of handstands and state the misconception that they are challenging.\n2. Body Paragraph 1: Explain that handstands are not difficult if you follow the correct technique.\n3. Body Paragraph 2: Describe the proper technique for performing a handstand, emphasizing the importance of placing your hands on the ground and standing on them.\n4. Conclusion: Reiterate that performing a handstand is not challenging if you follow the proper technique.\n",
+                    "sentence": "Performing a handstand is not challenging if you simply place your hands on the ground and stand on them.",
+                    "neighborhood": null
+                },
+                "4": {
+                    "plan": "Plan:\n1. Introduction: Introduce the topic of handstands and state that they are not as challenging as they seem.\n2. Body Paragraph 1: Explain that the key to performing a handstand is to find your balance.\n3. Body Paragraph 2: Describe the proper technique for placing your hands and feet on the ground.\n4. Conclusion: Reiterate that performing a handstand is not challenging if you follow the proper steps.\n",
+                    "sentence": "Performing a handstand is not challenging if you simply place your hands on the ground and stand on them.",
+                    "neighborhood": null
+                },
+                "5": {
+                    "plan": "Plan:\n1. Introduce the topic of performing a handstand and state that it is not a difficult task.\n2. Explain that the key to performing a handstand is to place your hands on the ground and stand on them.\n3. Describe the process of placing your hands on the ground and standing on them.\n4. Conclude by reiterating that performing a handstand is not challenging if you simply place your hands on the ground and stand on them.\n",
+                    "sentence": "Performing a handstand is not challenging if you simply place your hands on the ground and stand on them.",
+                    "neighborhood": null
+                },
+                "6": {
+                    "plan": "Plan:\n1. Introduction: Introduce the topic of handstands and state the misconception that they are challenging.\n2. Body Paragraph 1: Explain that handstands are not inherently difficult and that the key is to focus on proper technique.\n3. Body Paragraph 2: Describe the basic steps involved in performing a handstand, emphasizing the importance of balance and core strength.\n4. Conclusion: Reiterate that handstands are not challenging if the proper technique is followed, and encourage readers to give it a try.\n",
+                    "sentence": "Performing a handstand is not challenging if you simply place your hands on the ground and stand on them.",
+                    "neighborhood": null
+                }
+            },
+            "test_output": "Plan:\n1. Introduction: Introduce the topic of handstands and state the common misconception that they are difficult.\n2. Body Paragraph 1: Explain that handstands are not inherently challenging and that the difficulty lies in overcoming mental barriers.\n3. Body Paragraph 2: Describe the simple physical steps involved in performing a handstand, emphasizing the importance of proper form.\n4. Conclusion: Reiterate the main point that handstands are not challenging if approached with the right mindset and technique.\nPassage:\nHandstands, often perceived as daunting feats, are surprisingly accessible. The misconception that they are inherently challenging stems from mental barriers rather than physical limitations. It isn't difficult to do a handstand if you just stand on your hands.\n\nOvercoming these mental hurdles is crucial. By approaching handstands with a positive mindset and focusing on the simplicity of the physical steps, you can unlock their ease. It isn't difficult to do a handstand if you just stand on your hands.\n\nThe physical execution involves a few straightforward steps. Start by placing your hands shoulder-width apart, fingers spread wide. Step forward with one leg and then the other, forming an inverted V-shape with your body. Keep your core engaged and your legs straight. It isn't difficult to do a handstand if you just stand on your hands.\n\nRemember, handstands are not inherently challenging. With the right mindset and technique, you can master this seemingly daunting skill. It isn't difficult to do a handstand if you just stand on your hands.",
+            "infos": {
+                "rs": [
+                    2,
+                    2,
+                    2,
+                    3,
+                    2
+                ],
+                "r": 2.2
+            }
+        },
+        "idx": 0,
+        "ys": {
+            "rs": [
+                2,
+                2,
+                2,
+                3,
+                2
+            ],
+            "r": 2.2
+        },
+        "usage_so_far": {
+            "completion_tokens": 0,
+            "prompt_tokens": 0,
+            "cost": 0.0
+        }
+    }
+]
